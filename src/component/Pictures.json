@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"Jonathan Joestar",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/3/3f/JonathanP2.png"
+    },
+    {
+        "id":2,
+        "name":"Joseph Joestar",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/4/43/JosephJoestar123.png"
+    },
+    {
+        "id":3,
+        "name":"Jotaro Kujo",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/9/99/KujoAnime.png"
+    },
+    {
+        "id":4,
+        "name":"Josuke Higashikata",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/2/24/JosukeAnime.PNG"
+    },
+    {
+        "id":5,
+        "name":"Giorno Giovanna",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/5/55/GiornoProfile.png"
+    },
+    {
+        "id":6,
+        "name":"Jolyne Cujoh",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/e/eb/JolyneProfile.png"
+    },
+    {
+        "id":7,
+        "name":"Johnny Joestar",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/d/d9/Johnny_Joestar_Part_7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Josuke Higashikata",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/a/aa/Josuke_jojolion_crop.png"
+    },
+    {
+        "id":9,
+        "name":"Dio Brando",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/8/87/DioP2.png"
+    },
+    {
+        "id":10,
+        "name":"Gyro Zeppeli",
+        "src":"https://vignette.wikia.nocookie.net/jjba/images/d/df/GyroP.png"
+    }
+]
