@@ -38,15 +38,5 @@
         "id":8,
         "name":"Josuke Higashikata",
         "src":"https://vignette.wikia.nocookie.net/jjba/images/a/aa/Josuke_jojolion_crop.png"
-    },
-    {
-        "id":9,
-        "name":"Dio Brando",
-        "src":"https://vignette.wikia.nocookie.net/jjba/images/8/87/DioP2.png"
-    },
-    {
-        "id":10,
-        "name":"Gyro Zeppeli",
-        "src":"https://vignette.wikia.nocookie.net/jjba/images/d/df/GyroP.png"
     }
 ]
